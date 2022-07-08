@@ -1,1 +1,1 @@
-docker container ls
+docker container ls -a
