@@ -2,7 +2,7 @@
 
 ## :page_with_curl: Sobre
 
-O projeto consiste em uma aplicação full-stack de um aplicativo de tarefas que já está previamente desenvolvida, mas, para ser executada, precisa ser conteinerizada através dos comandos CLI do Docker, Dockerfiles e Docker Compose. Para tanto, será necessário conteinizar aplicações, criar uma conexão entre elas e orquestrar seu funcionamento.
+O projeto consiste em uma aplicação full-stack de um aplicativo de tarefas que já está previamente desenvolvido, mas, para ser executada, precisa ser conteinerizada através dos comandos CLI do Docker, Dockerfiles e Docker Compose. Para tanto, será necessário conteinizar aplicações, criar uma conexão entre elas e orquestrar seu funcionamento.
 
 ## :man_technologist: Habilidades Desenvolvidas
 
