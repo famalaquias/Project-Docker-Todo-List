@@ -1,4 +1,4 @@
-# Docker To-Do List :whale2:
+# :whale2: Docker To-Do List :whale2:
 
 ## :page_with_curl: Sobre
 
